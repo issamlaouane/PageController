@@ -6,6 +6,7 @@
 ## captchas
 ## requete recherche
 ### ouvrir dans une nouvelle fenetre
+### vérifier si c'est pas déja postulé (option)
 #### captcha
 #### question recruteur
 ######## gpt
